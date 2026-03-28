@@ -1,0 +1,7 @@
+/* App shell reset - market briefing style */
+#root {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  background-color: var(--color-bg);
+}

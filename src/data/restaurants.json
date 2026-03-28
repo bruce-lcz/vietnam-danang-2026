@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza 4P's",
+        "location": "Danang",
+        "rating": 4.8,
+        "reviews": "10k+",
+        "tags": [
+            "Pizza",
+            "Fine Dining",
+            "High CP"
+        ],
+        "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&q=80&w=800",
+        "description": "被譽為來越南必吃的義式披薩餐廳！以自製的新鮮起司（Burrata）和極具特色的越式披薩最為知名，服務一流且價格實惠。",
+        "mapUrl": "https://maps.google.com/?q=Pizza+4P's+Da+Nang"
+    },
+    {
+        "id": 2,
+        "name": "Thế Giới Hải Sản",
+        "location": "Danang",
+        "rating": 4.5,
+        "reviews": "2k+",
+        "tags": [
+            "Seafood",
+            "Fresh",
+            "Local"
+        ],
+        "image": "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?auto=format&fit=crop&q=80&w=800",
+        "description": "來到蜆港絕不可錯過的海鮮鉅獻。食材新鮮，活跳跳的龍蝦與各式生猛海鮮任君挑選，蒜香奶油與酸辣口味為點單首選。",
+        "mapUrl": "https://maps.google.com/?q=The+Gioi+Hai+San+Da+Nang"
+    },
+    {
+        "id": 3,
+        "name": "Nen Restaurant",
+        "location": "Danang",
+        "rating": 4.9,
+        "reviews": "850+",
+        "tags": [
+            "Fine Dining",
+            "Modern Vietnamese",
+            "Chef's Table"
+        ],
+        "image": "https://images.unsplash.com/photo-1544148103-0773bf10d330?auto=format&fit=crop&q=80&w=800",
+        "description": "精緻的高級越式料理餐廳，主廚將傳統越南在地風味融合現代法式料理技巧，每一道菜都猶如藝術品，需提早訂位。",
+        "mapUrl": "https://maps.google.com/?q=Nen+Restaurant+Da+Nang"
+    },
+    {
+        "id": 4,
+        "name": "Banh Mi Phuong",
+        "location": "Hoi An",
+        "rating": 4.7,
+        "reviews": "14k+",
+        "tags": [
+            "Street Food",
+            "Banh Mi",
+            "Must Try"
+        ],
+        "image": "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&q=80&w=800",
+        "description": "連美國已故名廚安東尼波登也讚不絕口的「越式法國麵包」！麵包外酥內軟，加上大量鮮甜蔬菜與特殊醬汁，無時無刻都在排隊。",
+        "mapUrl": "https://maps.google.com/?q=Banh+Mi+Phuong+Hoi+An"
+    },
+    {
+        "id": 5,
+        "name": "Morning Glory Original",
+        "location": "Hoi An",
+        "rating": 4.5,
+        "reviews": "8k+",
+        "tags": [
+            "Traditional",
+            "Vietnamese",
+            "Hoi An Style"
+        ],
+        "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=800",
+        "description": "經典的會安古城料理老店，以開放式廚房為特色，推薦品嚐「白玫瑰」（特色煎餃）與「高樓麵」，完美詮釋會安在地滋味。",
+        "mapUrl": "https://maps.google.com/?q=Morning+Glory+Original+Hoi+An"
+    },
+    {
+        "id": 6,
+        "name": "Bún chả 109",
+        "location": "Danang",
+        "rating": 4.6,
+        "reviews": "1.5k+",
+        "tags": [
+            "Michelin Bib",
+            "Bun Cha",
+            "Local favorite"
+        ],
+        "image": "https://images.unsplash.com/photo-1623341214825-9f4f963727da?auto=format&fit=crop&q=80&w=800",
+        "description": "2025 年獲得米其林必比登推薦的魚肉河粉/烤肉米線店。其湯頭清甜且價格非常平民，是當地人排隊也要吃的美味。",
+        "mapUrl": "https://maps.google.com/?q=Bun+cha+109+Da+Nang"
+    },
+    {
+        "id": 7,
+        "name": "Antoi",
+        "location": "Danang",
+        "rating": 4.7,
+        "reviews": "4k+",
+        "tags": [
+            "Michelin Selected",
+            "Korean Friendly",
+            "Modern"
+        ],
+        "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&q=80&w=800",
+        "description": "極受觀光客（特別是韓國遊客）喜愛的精品餐廳。推薦奶油大蒜蝦與特色煎餅，環境乾淨現代且具設計感。",
+        "mapUrl": "https://maps.google.com/?q=Antoi+Da+Nang"
+    },
+    {
+        "id": 8,
+        "name": "Madam Khanh - The Banh Mi Queen",
+        "location": "Hoi An",
+        "rating": 4.8,
+        "reviews": "6k+",
+        "tags": [
+            "Banh Mi",
+            "World Famous",
+            "Queen"
+        ],
+        "image": "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&q=80&w=800",
+        "description": "與 Banh Mi Phuong 齊名的「法國麵包皇后」。口味較重、醬汁濃郁，是許多老饕來到會安後的唯一首選。",
+        "mapUrl": "https://maps.google.com/?q=Madam+Khanh+Hoi+An"
+    },
+    {
+        "id": 9,
+        "name": "Bé Ni 2",
+        "location": "Danang",
+        "rating": 4.4,
+        "reviews": "3k+",
+        "tags": [
+            "Seafood",
+            "Street side",
+            "Lively"
+        ],
+        "image": "https://images.unsplash.com/photo-1551489186-cf8726f514f8?auto=format&fit=crop&q=80&w=800",
+        "description": "位於美溪沙灘旁的熱鬧海鮮大排檔，價格公開透明。點一盤碳烤大蝦搭配冰啤酒，享受最道地的峴港夜晚。",
+        "mapUrl": "https://maps.google.com/?q=Be+Ni+2+Seafood+Da+Nang"
+    },
+    {
+        "id": 10,
+        "name": "Phú Hồng",
+        "location": "Danang",
+        "rating": 4.5,
+        "reviews": "900+",
+        "tags": [
+            "BBQ Pork",
+            "Local Gem",
+            "Must try"
+        ],
+        "image": "https://images.unsplash.com/photo-1623341214825-9f4f963727da?auto=format&fit=crop&q=80&w=800",
+        "description": "在社群媒體上爆紅的炭烤豬肉捲餅店。使用特製花生沾醬，搭配大量的生菜與現烤多汁豬肉，風味絕佳。",
+        "mapUrl": "https://maps.google.com/?q=Phu+Hong+Da+Nang"
+    },
+    {
+        "id": 11,
+        "name": "Nu Do - Mi Quang",
+        "location": "Danang",
+        "rating": 4.6,
+        "reviews": "700+",
+        "tags": [
+            "Michelin Selected",
+            "Mi Quang",
+            "Masterchef"
+        ],
+        "image": "https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?auto=format&fit=crop&q=80&w=800",
+        "description": "由越南主廚經營，主打最純粹的廣南麵（Mi Quang）。Q 彈厚實的麵條搭配精心熬製的鮮甜醬汁。",
+        "mapUrl": "https://maps.google.com/?q=Nu+Do+Mi+Quang+Da+Nang"
+    },
+    {
+        "id": 12,
+        "name": "Bếp Cuốn Đà Nẵng",
+        "location": "Danang",
+        "rating": 4.7,
+        "reviews": "2.5k+",
+        "tags": [
+            "Vietnamese",
+            "Garden style",
+            "Spring rolls"
+        ],
+        "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=800",
+        "description": "提供豐富的越式手捲料理。您可以親自體驗將米紙包入各式配料的樂趣，環境優雅適合拍照。",
+        "mapUrl": "https://maps.google.com/?q=Bep+Cuon+Da+Nang"
+    },
+    {
+        "id": 13,
+        "name": "Pho Xua",
+        "location": "Hoi An",
+        "rating": 4.6,
+        "reviews": "5k+",
+        "tags": [
+            "Pho",
+            "Bargain",
+            "Authentic"
+        ],
+        "image": "https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?auto=format&fit=crop&q=80&w=800",
+        "description": "會安古鎮內 CP 值極高的傳說級河粉店。湯頭層次分明，不分晝夜總是擠滿了各國遊客。",
+        "mapUrl": "https://maps.google.com/?q=Pho+Xua+Hoi+An"
+    },
+    {
+        "id": 14,
+        "name": "White Rose Restaurant",
+        "location": "Hoi An",
+        "rating": 4.3,
+        "reviews": "3k+",
+        "tags": [
+            "Specialty",
+            "One item",
+            "History"
+        ],
+        "image": "https://images.unsplash.com/photo-1623341214825-9f4f963727da?auto=format&fit=crop&q=80&w=800",
+        "description": "全會安所有的「白玫瑰」餃子幾乎都源自這間老店。您可以現場看到職人包製過程，味道清新、外皮薄韌。",
+        "mapUrl": "https://maps.google.com/?q=White+Rose+Restaurant+Hoi+An"
+    },
+    {
+        "id": 15,
+        "name": "Mai Fish",
+        "location": "Hoi An",
+        "rating": 4.5,
+        "reviews": "2k+",
+        "tags": [
+            "Riverside",
+            "Fine Dining",
+            "Cocktails"
+        ],
+        "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&q=80&w=800",
+        "description": "位於河岸，環境極美。提供頂級的越法融合料理，適合在夕陽下享受浪漫的晚餐與調酒。",
+        "mapUrl": "https://maps.google.com/?q=Mai+Fish+Hoi+An"
+    },
+    {
+        "id": 16,
+        "name": "Cozio",
+        "location": "Hoi An",
+        "rating": 4.7,
+        "reviews": "600+",
+        "tags": [
+            "Hidden Gem",
+            "Porridge",
+            "Comfort Food"
+        ],
+        "image": "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?auto=format&fit=crop&q=80&w=800",
+        "description": "以鮮甜的蛤蜊粥聞名，口感細膩。對於想在頻繁外食中尋找一絲清淡慰藉的人來說是完美選擇。",
+        "mapUrl": "https://maps.google.com/?q=Cozio+Hoi+An"
+    },
+    {
+        "id": 17,
+        "name": "Minh Hien Vegetarian",
+        "location": "Hoi An",
+        "rating": 4.8,
+        "reviews": "1.2k+",
+        "tags": [
+            "Vegetarian",
+            "Healthy",
+            "Quiet"
+        ],
+        "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&q=80&w=800",
+        "description": "會安評價最好的素食餐廳。即使您不是素食者，也會被這裏豐富的菜品與寧靜的書香味氣息所吸引。",
+        "mapUrl": "https://maps.google.com/?q=Minh+Hien+Vegetarian+Hoi+An"
+    },
+    {
+        "id": 18,
+        "name": "Madame Lân",
+        "location": "Danang",
+        "rating": 4.4,
+        "reviews": "7k+",
+        "tags": [
+            "Vietnamese",
+            "Architecture",
+            "Family"
+        ],
+        "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&q=80&w=800",
+        "description": "位於韓江畔的大型餐廳，建築裝潢充滿古典越南風情，菜色選擇極多，不論是牛肉河粉、烤肉米線都具有極高水準。",
+        "mapUrl": "https://maps.google.com/?q=Madame+Lan+Da+Nang"
+    },
+    {
+        "id": 19,
+        "name": "Bánh Mì Ngon",
+        "location": "Danang",
+        "rating": 4.7,
+        "reviews": "1.1k+",
+        "tags": [
+            "Banh Mi",
+            "Egg Banh Mi",
+            "Cheap"
+        ],
+        "image": "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&q=80&w=800",
+        "description": "專注於蛋與起司牛肉法國麵包。這裏的麵包外皮酥脆到驚人，是完美的早午餐選擇。",
+        "mapUrl": "https://maps.google.com/?q=Banh+Mi+Ngon+Da+Nang"
+    },
+    {
+        "id": 20,
+        "name": "Thia Go Restaurant",
+        "location": "Danang",
+        "rating": 4.6,
+        "reviews": "3k+",
+        "tags": [
+            "Traditional",
+            "Large group",
+            "Banh Xeo"
+        ],
+        "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=800",
+        "description": "這裏有巨大的鮮蝦大煎餅（Banh Xeo）與各類魚料理，是想要大口吃肉大口喝酒的絕佳聚餐地點。",
+        "mapUrl": "https://maps.google.com/?q=Thia+Go+Restaurant+Da+Nang"
+    }
+]

@@ -1,0 +1,249 @@
+{
+  "day": 1,
+  "date": "2026-04-17",
+  "title": "台北 ➔ 峴港 ➔ 會安",
+  "summary": "前往會安",
+  "timeline": [
+    {
+      "time": "06:00",
+      "title": "抵達桃園機場",
+      "type": "transit",
+      "icon": "Plane",
+      "description": "辦理登機與行李託運手續，準備出發",
+      "details": null
+    },
+    {
+      "time": "09:10",
+      "title": "星宇 JX1703 起飛",
+      "type": "transit",
+      "icon": "PlaneTakeoff",
+      "description": "搭乘星宇航空直飛航班前往越南峴港市",
+      "details": null
+    },
+    {
+      "time": "11:00",
+      "title": "抵達峴港機場 (DAD)",
+      "type": "transit",
+      "icon": "PlaneArrival",
+      "description": "抵達峴港國際機場，辦理落地簽證與入境過海關手續",
+      "details": null
+    },
+    {
+      "time": "11:30",
+      "title": "Vietcombank 換匯",
+      "type": "attraction",
+      "icon": "Banknote",
+      "description": "於機場櫃台辦理貨幣兌換，準備當地行程所需現金",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行 5 分鐘"
+      },
+      "details": null,
+      "google_map": "https://maps.google.com/?q=Da+Nang+International+Airport"
+    },
+    {
+      "time": "13:00",
+      "title": "會安飯店 Check-in",
+      "type": "attraction",
+      "icon": "Hotel",
+      "description": "前往下榻酒店辦理入住手續並寄存行李，稍作休息",
+      "details": null,
+      "google_map": "https://maps.google.com/?q=Soluna+D'Annam+Hoi+An",
+      "transport": {
+        "icon": "Car",
+        "text": "Grab 約 45 分鐘"
+      }
+    },
+    {
+      "time": "15:00",
+      "title": "抵達會安古城 & 購買通票",
+      "type": "attraction",
+      "icon": "Tickets",
+      "description": "漫步於世界文化遺產，購買參觀通票以探索多處百年古蹟",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hoi_An_lanterns_at_night.jpg/1200px-Hoi_An_lanterns_at_night.jpg",
+      "details": {
+        "story": "會安古鎮（Hoi An Ancient Town）是一座保存完好的東南亞貿易港口。在古鎮內街道散步是不需要門票的，但若要進入特定的古蹟（如會館、老屋等），需要購買「古城通票」，一張票可以任選 5 個收費景點參觀。",
+        "mapUrl": "https://maps.google.com/?q=Hoi+An+Ancient+Town"
+      },
+      "google_map": "https://maps.google.com/?q=Hoi+An+Ancient+Town",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行 10 分鐘"
+      }
+    },
+    {
+      "time": "15:15",
+      "title": "Bánh Mì Phượng (法式麵包)",
+      "type": "attraction",
+      "icon": "Utensils",
+      "description": "品嚐聞名遐邇的越式法包，享受道地越式街頭小吃風味",
+      "transport": {
+        "icon": "Car",
+        "text": "Grab 5 分鐘"
+      },
+      "details": {
+        "story": "被譽為會安最好吃的越南麵包之一，烤得酥脆的法式麵包夾滿肉片、肉醬和新鮮蔬菜，非常適合作為下午茶墊墊胃。",
+        "mapUrl": "https://maps.google.com/?q=Bánh+Mì+Phượng"
+      },
+      "google_map": "https://maps.google.com/?q=Bánh+Mì+Phượng"
+    },
+    {
+      "time": "15:45",
+      "title": "Mót Hội An (蓮花水)",
+      "type": "attraction",
+      "icon": "Coffee",
+      "description": "品飲結合傳統草本與唯美蓮瓣點綴的特色茶飲，體驗古城氛圍",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行 3 分鐘"
+      },
+      "details": {
+        "story": "這款特色飲品以檸檬草、青檸和多種中藥材熬製，杯頂會點綴一朵粉色蓮花瓣。不僅清涼解渴，拿著拍照也非常有古城氛圍！",
+        "mapUrl": "https://maps.google.com/?q=Mót+Hội+An"
+      },
+      "google_map": "https://maps.google.com/?q=Mót+Hội+An"
+    },
+    {
+      "time": "16:00",
+      "title": "福建會館",
+      "type": "attraction",
+      "icon": "Landmark",
+      "description": "參觀會安最具規模的華人會館，欣賞其富麗堂皇的傳統閩南建築之美",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行 3 分鐘"
+      },
+      "details": {
+        "story": "建於 1697 年，主祀湄洲媽祖。這裡是會安最著名的會館，建築富麗堂皇，擁有精美的木雕、石雕與大紅燈籠，非常具有歷史價值。",
+        "mapUrl": "https://maps.google.com/?q=Fujian+Assembly+Hall"
+      },
+      "google_map": "https://maps.google.com/?q=Fujian+Assembly+Hall"
+    },
+    {
+      "time": "16:30",
+      "title": "廣肇會館",
+      "type": "attraction",
+      "icon": "Landmark",
+      "description": "探訪供奉關聖帝君的信仰中心，觀賞精湛瑰麗的陶藝與龍形雕塑",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行 2 分鐘"
+      },
+      "details": {
+        "story": "建於 1885 年，主要供奉關公。廣肇會館最為知名的是中庭壯觀的拼貼巨龍雕塑，以及精湛的陶藝與木雕，也是拍照的好地方。",
+        "mapUrl": "https://maps.google.com/?q=Cantonese+Assembly+Hall"
+      },
+      "google_map": "https://maps.google.com/?q=Cantonese+Assembly+Hall"
+    },
+    {
+      "time": "17:00",
+      "title": "咖啡與購物散步",
+      "type": "attraction",
+      "icon": "ShoppingBag",
+      "description": "於特色咖啡廳小憩，並在此發掘在地獨立店鋪的獨特選物",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行 5 分鐘"
+      },
+      "details": {
+        "story": "走累了，在古鎮裡找間特色咖啡店 (如 Uncle Huan Coffee) 坐下來休息一下，並逛逛 JAKIYA LUXURY 等特色小店，感受黃昏時分古鎮逐漸點燈的浪漫氛圍。",
+        "mapUrl": "https://maps.google.com/?q=Uncle+Huan+Coffee"
+      },
+      "google_map": "https://maps.google.com/?q=Uncle+Huan+Coffee"
+    },
+    {
+      "time": "17:30",
+      "title": "集合：62 Bach Dang（KKday 接駁點）",
+      "type": "transit",
+      "icon": "Bus",
+      "description": "依 KKday 組合票規定，17:30 抵達 62 Bach Dang（會安古城河畔）集合／報到，工作人員將安排接駁前往會安印象主題公園",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行 5 分鐘"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/The_world_cultural_heritage_Hoi_An_ancient_town.jpg/1200px-The_world_cultural_heritage_Hoi_An_ancient_town.jpg",
+      "details": {
+        "story": "KKday 組合票的集合／接駁點在 62 Bach Dang（Hoi An）。建議 17:20 前先到附近等候，以免錯過接駁。演出結束後（約 21:00）也會安排回到這個集合點。",
+        "mapUrl": "https://maps.google.com/?q=62+Bach+Dang+Hoi+An"
+      },
+      "google_map": "https://maps.google.com/?q=62+Bach+Dang+Hoi+An"
+    },
+    {
+      "time": "17:45-19:00",
+      "title": "會安印象主題公園（先逛園區）",
+      "type": "attraction",
+      "icon": "Tickets",
+      "description": "抵達後先熟悉園區動線、打卡拍照、看小劇場與街頭演出（套票不含晚餐）",
+      "transport": {
+        "icon": "Bus",
+        "text": "KKday 接駁前往"
+      },
+      "details": {
+        "story": "建議到園區後先走到「月光橋」一帶拍照（約 18:00 左右光線最好），再回到各街區看小劇場／街頭互動演出。19:00 後就準備用餐、找好入場動線與座位區，20:00 開始看秀。",
+        "mapUrl": "https://maps.google.com/?q=Hoi+An+Impression+Theme+Park"
+      },
+      "google_map": "https://maps.google.com/?q=Hoi+An+Impression+Theme+Park"
+    },
+    {
+      "time": "19:00-19:45",
+      "title": "園區晚餐（自行用餐）",
+      "type": "attraction",
+      "icon": "Utensils",
+      "description": "套票不含晚餐，建議在園區內簡單用餐後提早入場／卡位",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行（園區內）"
+      },
+      "details": {
+        "story": "可在園區內餐廳／美食街用餐（例如 Bamboo Restaurant）。建議 19:45 前結束用餐，避免 20:00 開演前人潮卡住入場動線。",
+        "mapUrl": "https://maps.google.com/?q=Hoi+An+Impression+Theme+Park"
+      },
+      "google_map": "https://maps.google.com/?q=Hoi+An+Impression+Theme+Park"
+    },
+    {
+      "time": "20:00",
+      "title": "會安回憶秀 (Hoi An Memories Show)",
+      "type": "attraction",
+      "icon": "Theater",
+      "description": "20:00-21:00 大型實景匯演（建議 19:45 前就定位）",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行（園區內）"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Hoian_Memories_Show.jpg",
+      "details": {
+        "story": "會安回憶秀是越南最大的實景演出之一，動用數百名演員，在佔地 25,000 平方公尺的舞台上，結合壯麗的聲光效果，講述會安 400 年來的輝煌歷史與動人故事。絕對是來會安不可錯過的體驗。",
+        "mapUrl": "https://maps.google.com/?q=Hoi+An+Memories+Show"
+      },
+      "google_map": "https://maps.google.com/?q=Hoi+An+Memories+Show"
+    },
+    {
+      "time": "21:00-21:30",
+      "title": "回到 62 Bach Dang／古城河畔放水燈（可選）",
+      "type": "attraction",
+      "icon": "Droplets",
+      "description": "演出結束後依 KKday 接駁回集合點；若還有體力，可在古城河畔自費放水燈",
+      "transport": {
+        "icon": "Bus",
+        "text": "KKday 接駁回到 62 Bach Dang"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hoi_An_lanterns_at_night.jpg/1200px-Hoi_An_lanterns_at_night.jpg",
+      "details": {
+        "story": "如果想放水燈，回到 62 Bach Dang 之後可以走到古城河畔（An Hoi Bridge 一帶）找船家體驗。若你想用 KKday 行程提供的「演後搭船放水燈」方案（Cam Nam：200 Nguyen Tri Phuong 一帶），建議在白天先跟工作人員確認集合方式與是否需要加購／預約。"
+      }
+    },
+    {
+      "time": "22:00",
+      "title": "回飯店休息",
+      "type": "transit",
+      "icon": "Hotel",
+      "description": "結束充實的首日行程，返回酒店休息，為後續旅程養精蓄銳",
+      "details": null,
+      "google_map": "https://maps.google.com/?q=Soluna+D'Annam+Hoi+An",
+      "transport": {
+        "icon": "Car",
+        "text": "Grab 約 10-15 分鐘"
+      }
+    }
+  ]
+}

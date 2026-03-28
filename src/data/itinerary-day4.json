@@ -1,0 +1,259 @@
+{
+  "day": 4,
+  "date": "2026-04-20",
+  "title": "巴拿山一日遊",
+  "summary": "巴拿山",
+  "timeline": [
+    {
+      "time": "06:15",
+      "title": "飯店快閃早餐 @ Sanouva",
+      "type": "attraction",
+      "icon": "Coffee",
+      "description": "於 S'Ngon 餐廳短暫享用早餐。必喝杯越南純黑咖啡提神，並來碗特色 Cao Lau 迎接巴拿山挑戰",
+      "details": {
+        "story": "為了趕 07:00 的包車，建議在 06:15 餐廳剛開門時就先來進食。Sanouva 的咖啡味道純正，非常推薦搭配現煮的麵食，為長途行程補充熱量。"
+      }
+    },
+    {
+      "time": "07:00",
+      "title": "飯店出發",
+      "type": "transit",
+      "icon": "Car",
+      "description": "搭乘專屬包車專車，直接前往巴拿山纜車乘車處",
+      "details": null
+    },
+    {
+      "time": "08:00",
+      "title": "抵達山下 ➔ 搭纜車直達中層",
+      "type": "transit",
+      "icon": "TramFront",
+      "description": "搭乘園區接駁車至售票處，並搭乘觀景纜車直達馬賽站",
+      "transport": {
+        "icon": "Car",
+        "text": "包車約 40-50 分鐘"
+      },
+      "details": null
+    },
+    {
+      "time": "08:30",
+      "title": "佛手金橋 (Golden Bridge)",
+      "type": "attraction",
+      "icon": "Camera",
+      "description": "趁早晨人潮較少時，漫步並拍攝宏偉壯觀的佛手金橋美景",
+      "transport": {
+        "icon": "TramFront",
+        "text": "纜車 Ga Hội An ➔ Ga Marseille"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/The_Golden_Bridge%2C_Ba_Na_Hills%2C_Vietnam.jpg/1280px-The_Golden_Bridge%2C_Ba_Na_Hills%2C_Vietnam.jpg",
+      "details": {
+        "story": "佛手金橋（Cau Vang）位於海拔 1,414 公尺的山巔，全長 150 公尺，彷彿一條金色絲帶懸在半空中，被兩隻巨大的石手輕輕托起。在雲霧繚繞時，這裡彷彿人間仙境。",
+        "mapUrl": "https://maps.google.com/?q=Golden+Bridge+Ba+Na+Hills"
+      },
+      "google_map": "https://maps.google.com/?q=Golden+Bridge+Ba+Na+Hills"
+    },
+    {
+      "time": "09:10",
+      "title": "搭纜車上頂層（法國村／Sun Kingdom）",
+      "type": "transit",
+      "icon": "TramFront",
+      "description": "金橋拍完直接上頂層：先衝高山滑車，再逛法國村＋卡一場表演",
+      "transport": {
+        "icon": "TramFront",
+        "text": "纜車 Ga Marseille ➔ Ga Bordeaux / Ga Louvre"
+      },
+      "details": null
+    },
+    {
+      "time": "09:30-10:30",
+      "title": "高山滑車 (Alpine Coaster / Luge)",
+      "type": "attraction",
+      "icon": "FerrisWheel",
+      "description": "先玩滑車避開人潮，依現場排隊狀況可玩 1–2 趟（天候不佳可能停駛）",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行（法國村／Fantasy Park 附近）"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ba_Na_Hills_-_French_Village.jpg/1280px-Ba_Na_Hills_-_French_Village.jpg",
+      "details": {
+        "story": "高山滑車是巴拿山熱門設施，建議一到頂層就先衝，越晚越容易排隊。記得穿好防滑鞋、控制速度、拍照請先停好車再拍。"
+      }
+    },
+    {
+      "time": "10:30-11:20",
+      "title": "法國村巡禮（教堂／廣場）",
+      "type": "attraction",
+      "icon": "ShoppingBag",
+      "description": "逛教堂、噴泉廣場與街景，順便找表演場地位置（以現場公告為準）",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行（園區內）"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ba_Na_Hills_-_French_Village.jpg/1280px-Ba_Na_Hills_-_French_Village.jpg",
+      "details": {
+        "story": "法國村的街頭表演通常分散在噴泉廣場、Beer Plaza、Sun Castle／Eclipse Square 一帶。建議先用這段時間把「中午想卡哪一場」的地點摸清楚，才不會到了時間還在找路。"
+      }
+    },
+    {
+      "time": "11:30-11:50",
+      "title": "表演時間：Solar Warriors（建議卡一場）",
+      "type": "attraction",
+      "icon": "Theater",
+      "description": "常見時段：11:30-11:50（另有 13:30-13:50 等），以當日園區公布為準",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行（Sun Castle／Helios 瀑布附近）"
+      },
+      "details": {
+        "story": "這段特別為你保留「卡表演」的時間窗。園區表演時刻可能依季節／活動調整，建議你到法國村後先看告示牌或詢問工作人員，確認當天表演時間與地點。"
+      }
+    },
+    {
+      "time": "12:00-12:40",
+      "title": "午餐（法國村／Beer Plaza）",
+      "type": "attraction",
+      "icon": "Utensils",
+      "description": "在頂層先吃飽再去月亮城堡，避免下午玩設施時低血糖",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行（園區內）"
+      }
+    },
+    {
+      "time": "12:45",
+      "title": "小火車：太陽城堡 ➜ 月亮城堡（Lava Train）",
+      "type": "transit",
+      "icon": "Train",
+      "description": "從法國村／Eclipse Square 一帶搭園區小火車前往 Moon Kingdom Station，再步行進月亮城堡",
+      "transport": {
+        "icon": "Train",
+        "text": "Lava Train（園區小火車）"
+      },
+      "details": {
+        "story": "你問的「法國村到月亮城堡」銜接：通常會先到 Eclipse Square／Sun Castle 周邊，搭 Lava Train（園區小火車）到 Moon Kingdom Station，再跟著指標走到月亮城堡入口。若小火車排隊或停駛，也可走手扶梯／步行銜接。"
+      }
+    },
+    {
+      "time": "13:00-14:00",
+      "title": "月亮城堡（玩 2 個遊樂設施）",
+      "type": "attraction",
+      "icon": "Tickets",
+      "description": "先把你想玩的 2 個設施玩掉（以當日開放項目與排隊狀況為準）",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行（園區內）"
+      },
+      "image": "https://sunworld.vn/wp-content/uploads/2019/04/fantasy-park.jpg",
+      "details": {
+        "story": "月亮城堡與周邊的 Moon Kingdom／室內遊樂區有不少設施與互動體驗。建議你一到就先確認「你指定的兩個設施」是否開放、排隊時間大概多久，再決定動線（先排熱門、再排次熱門）。"
+      }
+    },
+    {
+      "time": "14:05",
+      "title": "搭纜車回中層（愛情花園／酒窖）",
+      "type": "transit",
+      "icon": "TramFront",
+      "description": "玩完月亮城堡後回到中層補拍愛情花園、參觀百年酒窖",
+      "transport": {
+        "icon": "TramFront",
+        "text": "纜車 Ga Louvre ➔ Ga Marseille"
+      },
+      "details": null
+    },
+    {
+      "time": "14:30-15:20",
+      "title": "愛情花園 & 百年酒窖（回中層補拍）",
+      "type": "attraction",
+      "icon": "MapPin",
+      "description": "回中層後再走愛情花園＋Debay 酒窖；順便買點小點心補水",
+      "image": "https://images.unsplash.com/photo-1596484552834-6a58f850e0a1?q=80&w=800&auto=format&fit=crop",
+      "details": {
+        "story": "愛情花園（Le Jardin d'Amour）與 Debay 酒窖都在中層區域，動線很順。酒窖裡偏涼，怕冷可以帶一件薄外套。"
+      },
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行（園區內）"
+      }
+    },
+    {
+      "time": "15:30",
+      "title": "搭纜車下山",
+      "type": "transit",
+      "icon": "TramFront",
+      "description": "從中層搭纜車回到山下站，準備與包車司機會合",
+      "transport": {
+        "icon": "TramFront",
+        "text": "纜車 Ga Marseille ➔ Ga Hội An"
+      }
+    },
+    {
+      "time": "16:10",
+      "title": "停車場會合包車司機",
+      "type": "transit",
+      "icon": "Bus",
+      "description": "依約到停車場／集合點找司機，確認行李與回程時間",
+      "transport": {
+        "icon": "Bus",
+        "text": "依司機約定集合點"
+      },
+      "details": null
+    },
+    {
+      "time": "16:30",
+      "title": "回峴港市區 ➜ Vincom Plaza",
+      "type": "transit",
+      "icon": "Car",
+      "description": "下山後直接回市區到 Vincom Plaza（晚餐餐廳在商場內）",
+      "transport": {
+        "icon": "Car",
+        "text": "包車約 40-50 分鐘"
+      },
+      "google_map": "https://maps.google.com/?q=Vincom+Plaza+Da+Nang"
+    },
+    {
+      "time": "17:30-19:00",
+      "title": "晚餐：Vincom Plaza（餐廳在商場內）",
+      "type": "attraction",
+      "icon": "Utensils",
+      "description": "不用再轉點移動：抵達後直接在 Vincom Plaza 內用餐",
+      "transport": {
+        "icon": "Footprints",
+        "text": "同棟（下車即到）"
+      },
+      "details": {
+        "story": "你原本的晚餐就在 Vincom Plaza 裡，因此把「下山後」的目的地直接改成 Vincom Plaza 最順。吃完再逛街買鞋也不用移動。",
+        "mapUrl": "https://maps.google.com/?q=Vincom+Plaza+Da+Nang"
+      },
+      "google_map": "https://maps.google.com/?q=Vincom+Plaza+Da+Nang"
+    },
+    {
+      "time": "19:00-20:30",
+      "title": "Vincom Plaza 逛街買鞋（同棟直接續）",
+      "type": "attraction",
+      "icon": "ShoppingBag",
+      "description": "用餐後直接逛商場、買鞋與補貨，行程動線最省力",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行（商場內）"
+      },
+      "image": "https://images.unsplash.com/photo-1519567241046-7f5700b745bc?q=80&w=800&auto=format&fit=crop",
+      "details": {
+        "story": "Vincom Plaza 是峴港市區大型購物中心，品牌與餐廳集中，逛起來很舒服。若你想把時間留給休息，也可以把逛街縮短 30–45 分鐘，提早回飯店。",
+        "mapUrl": "https://maps.google.com/?q=Vincom+Plaza+Da+Nang"
+      },
+      "google_map": "https://maps.google.com/?q=Vincom+Plaza+Da+Nang"
+    },
+    {
+      "time": "21:30",
+      "title": "回飯店休息",
+      "type": "transit",
+      "icon": "Hotel",
+      "description": "返回酒店休息，為隔日的海濱與古城行程養足精神",
+      "details": null,
+      "google_map": "https://maps.google.com/?q=SALA+DANANG+BEACH+HOTEL",
+      "transport": {
+        "icon": "Car",
+        "text": "Grab 約 10-15 分鐘"
+      }
+    }
+  ]
+}

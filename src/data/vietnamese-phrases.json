@@ -1,0 +1,107 @@
+[
+    {
+        "id": "hello",
+        "vietnamese": "Xin chào",
+        "chinese": "你好",
+        "phonetic": "新照",
+        "category": "基礎問候"
+    },
+    {
+        "id": "thankyou",
+        "vietnamese": "Cảm ơn",
+        "chinese": "謝謝",
+        "phonetic": "感恩",
+        "category": "基礎問候"
+    },
+    {
+        "id": "sorry",
+        "vietnamese": "Xin lỗi",
+        "chinese": "對不起 / 不好意思",
+        "phonetic": "新漏伊",
+        "category": "基礎問候"
+    },
+    {
+        "id": "goodbye",
+        "vietnamese": "Tạm biệt",
+        "chinese": "再見",
+        "phonetic": "擔別",
+        "category": "基礎問候"
+    },
+    {
+        "id": "nevermind",
+        "vietnamese": "Không có gì",
+        "chinese": "沒關係",
+        "phonetic": "空鍋記",
+        "category": "基礎問候"
+    },
+    {
+        "id": "howmuch",
+        "vietnamese": "Bao nhiêu tiền?",
+        "chinese": "多少錢？",
+        "phonetic": "包妞疊？",
+        "category": "購物殺價"
+    },
+    {
+        "id": "tooexpensive",
+        "vietnamese": "Mắc quá!",
+        "chinese": "太貴了！",
+        "phonetic": "賣瓜！",
+        "category": "購物殺價"
+    },
+    {
+        "id": "cheaper",
+        "vietnamese": "Rẻ hơn được không?",
+        "chinese": "可以便宜一點嗎？",
+        "phonetic": "惹恨 得空？",
+        "category": "購物殺價"
+    },
+    {
+        "id": "iwantthis",
+        "vietnamese": "Tôi muốn cái này",
+        "chinese": "我要這個",
+        "phonetic": "堆木翁 改曩",
+        "category": "購物殺價"
+    },
+    {
+        "id": "delicious",
+        "vietnamese": "Ngon lắm!",
+        "chinese": "好吃！",
+        "phonetic": "昂南！",
+        "category": "餐廳用餐"
+    },
+    {
+        "id": "bill",
+        "vietnamese": "Tính tiền",
+        "chinese": "結帳 / 買單",
+        "phonetic": "進疊",
+        "category": "餐廳用餐"
+    },
+    {
+        "id": "nospicy",
+        "vietnamese": "Không cay",
+        "chinese": "不要辣",
+        "phonetic": "空蓋",
+        "category": "餐廳用餐"
+    },
+    {
+        "id": "toilet",
+        "vietnamese": "Nhà vệ sinh ở đâu?",
+        "chinese": "洗手間在哪裡？",
+        "phonetic": "哪衛生 歐兜？",
+        "category": "求助"
+    },
+    {
+        "id": "helpgrab",
+        "vietnamese": "Gọi Grab giúp tôi",
+        "chinese": "幫我叫 Grab",
+        "phonetic": "鍋依 Grab 諭堆",
+        "category": "求助"
+    },
+    {
+        "id": "dontunderstand",
+        "vietnamese": "Tôi không hiểu",
+        "chinese": "我不懂",
+        "phonetic": "堆 空 稀幼",
+        "category": "求助"
+    }
+]

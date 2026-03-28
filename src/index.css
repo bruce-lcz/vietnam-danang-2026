@@ -1,0 +1,72 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500;600;700&display=swap");
+
+@theme {
+  --font-mono: "JetBrains Mono", monospace;
+  --font-heading: "Poppins", Arial, sans-serif;
+  --font-body: "Lora", Georgia, serif;
+
+  /* Anthropic Brand Palette */
+  --color-bg: #faf9f5;
+  --color-surface: #ffffff;
+  --color-text-primary: #141413;
+  --color-text-secondary: #6b6b63;
+  --color-text-muted: #b0aea5;
+  --color-accent: #d97757;
+  --color-accent-dim: #fdf0f0;
+  --color-border: #e8e6dc;
+  --color-border-strong: #b0aea5;
+
+  /* Status colors */
+  --color-positive: #788c5d;
+  --color-positive-bg: #eef5f0;
+  --color-negative: #d97757;
+  --color-negative-bg: #fdf0f0;
+  --color-warning: #6a9bcc;
+  --color-warning-bg: #fdf8ec;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  background-color: var(--color-bg);
+  color: var(--color-text-primary);
+  font-family: var(--font-body);
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
+/* Hide scrollbar utility */
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* Mono text helper */
+.mono { font-family: var(--font-mono); }
+
+/* Section number badge */
+.section-num {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--color-accent);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* Accent dot */
+.accent-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--color-accent);
+}

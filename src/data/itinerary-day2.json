@@ -1,0 +1,210 @@
+{
+  "day": 2,
+  "date": "2026-04-18",
+  "title": "會安 ➔ 迦南島 ➔ 峴港",
+  "summary": "峴港市區",
+  "timeline": [
+    {
+      "time": "08:00",
+      "title": "飯店早餐",
+      "type": "attraction",
+      "icon": "Coffee",
+      "description": "於酒店內享用豐盛早食。必嚐「小瓶裝手工優格」，搭配現點現做的道地越式河粉、多種現做蛋飲及歐亞式熱菜，開啟充滿活力的一天",
+      "details": {
+        "story": "Soluna D'Annam 的早餐評價極高，除了豐富的歐亞式自助餐點，許多房客特別推薦他們裝在小玻璃瓶裡的「手工優格」，口感相當濃郁。現場也有提供道地的越式河粉 (Pho) 與各種類型的現點現做蛋料理。"
+      }
+    },
+    {
+      "time": "09:30",
+      "title": "迦南島竹籃船",
+      "type": "attraction",
+      "icon": "Ship",
+      "description": "搭乘傳統竹籃船穿梭於水椰林，並觀賞當地極具特色的水上旋轉表演",
+      "image": "https://images.unsplash.com/photo-1559592442-703df730598a?q=80&w=800&auto=format&fit=crop",
+      "details": {
+        "story": "來到秋盆河的迦南島，乘坐獨特的竹籃船穿梭在茂密的水椰林中。船夫會表演驚險刺激的瘋狂旋轉，並邀請您一同體驗河上捕蟹。這是來會安必玩的水上活動！",
+        "mapUrl": "https://maps.google.com/?q=Hanh+Coconut+Water+Coconut"
+      },
+      "google_map": "https://maps.google.com/?q=Hanh+Coconut+Water+Coconut",
+      "transport": {
+        "icon": "Car",
+        "text": "Grab 約 15 分鐘"
+      }
+    },
+    {
+      "time": "11:00",
+      "title": "回飯店拿行李",
+      "type": "transit",
+      "icon": "Briefcase",
+      "description": "返回酒店提取行李，準備前往下一站峴港",
+      "details": null
+    },
+    {
+      "time": "12:30",
+      "title": "抵達峴港飯店",
+      "type": "transit",
+      "icon": "Car",
+      "description": "抵達峴港市區酒店，先行寄放行李",
+      "details": null,
+      "google_map": "https://maps.google.com/?q=Sanouva+Danang+Hotel",
+      "transport": {
+        "icon": "Car",
+        "text": "Grab 約 30 分鐘"
+      }
+    },
+    {
+      "time": "13:00",
+      "title": "午餐: Bánh mì Happy Bread",
+      "type": "attraction",
+      "icon": "Utensils",
+      "description": "享用知名品牌越式法包，體驗豐富層次的口感",
+      "image": "https://images.unsplash.com/photo-1600454021970-351eff4a6554?q=80&w=800&auto=format&fit=crop",
+      "details": null,
+      "google_map": "https://maps.google.com/?q=Bánh+mì+Happy+Bread+Mì+A"
+    },
+    {
+      "time": "13:30",
+      "title": "漢市場 (Han Market)",
+      "type": "attraction",
+      "icon": "ShoppingBag",
+      "description": "深入當地傳統市場，量身訂製充滿越南風情的傳統服飾奧黛",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行 5 分鐘"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cho_Han_Entrance.JPG/800px-Cho_Han_Entrance.JPG",
+      "details": {
+        "story": "峴港市區最大、最傳統的室內市場，二樓有許多裁縫店可以量身訂做專屬自己的「奧黛」。這裡也是購買乾貨、鞋子、衣服和各式伴手禮的好地方。",
+        "mapUrl": "https://maps.google.com/?q=Han+Market+Da+Nang"
+      },
+      "google_map": "https://maps.google.com/?q=Han+Market+Da+Nang"
+    },
+    {
+      "time": "14:15",
+      "title": "咖啡與特色小店",
+      "type": "attraction",
+      "icon": "Coffee",
+      "description": "於知名越共咖啡廳品嚐特色椰奶咖啡，並漫步於周邊質感選物店",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行 10 分鐘"
+      },
+      "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?q=80&w=800&auto=format&fit=crop",
+      "details": {
+        "story": "在知名的越共咖啡喝杯椰奶咖啡稍作休息，並逛逛旁邊的特色選物店採買小東西。Cộng Cà Phê 以其獨特的軍事復古風格聞名。",
+        "mapUrl": "https://maps.google.com/?q=Cong+Ca+Phe+Da+Nang"
+      },
+      "google_map": "https://maps.google.com/?q=Cong+Ca+Phe+Da+Nang"
+    },
+    {
+      "time": "15:00",
+      "title": "峴港主教座堂 (粉紅教堂)",
+      "type": "attraction",
+      "icon": "Camera",
+      "description": "參觀法式殖民時期遺留的粉色教堂建築，感受其獨特的歷史與建築美學",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行 3 分鐘"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Da_Nang_Cathedral_20190919.jpg",
+      "details": {
+        "story": "建於 1923 年法國殖民時期，尖塔上的風信雞是其特色，因此又被當地人稱為雞教堂。粉紅色的牆面在藍天照耀下顯得格外迷人。",
+        "mapUrl": "https://maps.google.com/?q=Da+Nang+Cathedral"
+      },
+      "google_map": "https://maps.google.com/?q=Da+Nang+Cathedral"
+    },
+    {
+      "time": "15:30",
+      "title": "伴手禮: 頂級巧克力 tour",
+      "type": "attraction",
+      "icon": "ShoppingBag",
+      "description": "探訪越南頂級精品巧克力專賣店，挑選精緻且具在地特色的伴手禮",
+      "transport": {
+        "icon": "Car",
+        "text": "Grab 約 10 分鐘"
+      },
+      "image": "https://images.unsplash.com/photo-1548907040-4baa42d10919?q=80&w=800&auto=format&fit=crop",
+      "details": {
+        "story": "體驗越南最知名的兩大精品巧克力品牌，非常適合作為精緻伴手禮。Maison Marou 被譽為越南巧克力的驕傲，從巧克力豆到成品的每一步都非常講究。",
+        "mapUrl": "https://maps.google.com/?q=Maison+Marou+Flagship+Da+Nang"
+      },
+      "google_map": "https://maps.google.com/?q=Maison+Marou+Flagship+Da+Nang"
+    },
+    {
+      "time": "16:00",
+      "title": "Star Kitchen 採買",
+      "type": "attraction",
+      "icon": "Gift",
+      "description": "前往日系精緻伴手禮店，選購受歡迎的特色糕點與禮盒",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行 5 分鐘"
+      },
+      "details": {
+        "story": "日本人經營的知名伴手禮店，最受歡迎的是他們的生薑餅乾與各式質感禮盒。",
+        "mapUrl": "https://maps.google.com/?q=Star+Kitchen+Souvenir+Gift+Shop+-+Danang"
+      },
+      "google_map": "https://maps.google.com/?q=Star+Kitchen+Souvenir+Gift+Shop+-+Danang"
+    },
+    {
+      "time": "16:30",
+      "title": "飯店 Check-in",
+      "type": "attraction",
+      "icon": "Hotel",
+      "description": "返回酒店正式辦理入住手續，於客房稍作休息",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行 5 分鐘"
+      },
+      "details": null,
+      "google_map": "https://maps.google.com/?q=Sanouva+Danang+Hotel"
+    },
+    {
+      "time": "18:00-19:30",
+      "title": "晚餐: Pizza 4P's Indochina Da Nang",
+      "type": "attraction",
+      "icon": "Utensils",
+      "description": "享用風靡越南的精緻窯烤披薩，品嚐其招牌蟹肉義大利麵與自製布拉塔起司",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行 10 分鐘"
+      },
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=800&auto=format&fit=crop",
+      "details": {
+        "story": "Pizza 4P's 是越南最具代表性的窯烤披薩店，以自製起司聞名。Indochina 分店可俯瞰韓江美景。建議一定要嘗試他們的布拉塔起司，品質非常驚人。",
+        "mapUrl": "https://maps.google.com/?q=Pizza+4P's+Indochina+Da+Nang"
+      },
+      "google_map": "https://maps.google.com/?q=Pizza+4P's+Indochina+Da+Nang"
+    },
+    {
+      "time": "20:15",
+      "title": "My Xuan 號遊船夜遊韓江",
+      "type": "attraction",
+      "icon": "Ship",
+      "description": "持電子憑證前往碼頭集合，準備搭乘遊船欣賞韓江迷人夜景",
+      "transport": {
+        "icon": "Car",
+        "text": "Grab 約 10-15 分鐘"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Da_Nang_-_S%C3%B4ng_H%C3%A0n_%282024%29_-_img_04.jpg/800px-Da_Nang_-_S%C3%B4ng_H%C3%A0n_%282024%29_-_img_04.jpg",
+      "details": {
+        "story": "乘坐 My Xuan 號遊覽韓江夜色，在船上近距離觀賞龍橋噴火/噴水秀表演。夜晚的韓江兩岸燈火輝煌，伴著涼爽的海風非常愜意。",
+        "mapUrl": "https://maps.google.com/?q=Han+River+Cruise+Danang"
+      },
+      "google_map": "https://maps.google.com/?q=Han+River+Cruise+Danang"
+    },
+    {
+      "time": "21:30",
+      "title": "回飯店休息",
+      "type": "transit",
+      "icon": "Hotel",
+      "description": "結束充實的一天，返回酒店休息以迎接明日行程",
+      "details": null,
+      "google_map": "https://maps.google.com/?q=Sanouva+Danang+Hotel",
+      "transport": {
+        "icon": "Footprints",
+        "text": "步行 10 分鐘"
+      }
+    }
+  ]
+}
