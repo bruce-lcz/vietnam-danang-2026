@@ -26,7 +26,7 @@ export default function RestaurantCard({ restaurant, onClick }: RestaurantCardPr
             {/* Image Cover */}
             <div className="relative h-44 w-full group overflow-hidden">
                 <img
-                    src={restaurant.image}
+                    src={restaurant.image?.startsWith('http') ? restaurant.image : `${import.meta.env.BASE_URL}${restaurant.image?.startsWith('/') ? restaurant.image.slice(1) : restaurant.image || ''}`}
                     alt={restaurant.name}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                     loading="lazy"

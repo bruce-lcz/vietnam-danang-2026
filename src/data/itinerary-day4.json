@@ -32,6 +32,7 @@
         "icon": "Car",
         "text": "包車約 40-50 分鐘"
       },
+      "image": "/images/day4/ba-na-hills-cable-car.jpg",
       "details": null
     },
     {
@@ -44,7 +45,7 @@
         "icon": "TramFront",
         "text": "纜車 Ga Hội An ➔ Ga Marseille"
       },
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/The_Golden_Bridge%2C_Ba_Na_Hills%2C_Vietnam.jpg/1280px-The_Golden_Bridge%2C_Ba_Na_Hills%2C_Vietnam.jpg",
+      "image": "/images/day4/golden-bridge-ba-na-hills.jpg",
       "details": {
         "story": "佛手金橋（Cau Vang）位於海拔 1,414 公尺的山巔，全長 150 公尺，彷彿一條金色絲帶懸在半空中，被兩隻巨大的石手輕輕托起。在雲霧繚繞時，這裡彷彿人間仙境。",
         "mapUrl": "https://maps.google.com/?q=Golden+Bridge+Ba+Na+Hills"
@@ -73,7 +74,7 @@
         "icon": "Footprints",
         "text": "步行（法國村／Fantasy Park 附近）"
       },
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ba_Na_Hills_-_French_Village.jpg/1280px-Ba_Na_Hills_-_French_Village.jpg",
+      "image": "/images/day4/ba-na-hills-alpine-coaster.jpg",
       "details": {
         "story": "高山滑車是巴拿山熱門設施，建議一到頂層就先衝，越晚越容易排隊。記得穿好防滑鞋、控制速度、拍照請先停好車再拍。"
       }
@@ -88,7 +89,7 @@
         "icon": "Footprints",
         "text": "步行（園區內）"
       },
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ba_Na_Hills_-_French_Village.jpg/1280px-Ba_Na_Hills_-_French_Village.jpg",
+      "image": "/images/day4/french-village-ba-na-hills.jpg",
       "details": {
         "story": "法國村的街頭表演通常分散在噴泉廣場、Beer Plaza、Sun Castle／Eclipse Square 一帶。建議先用這段時間把「中午想卡哪一場」的地點摸清楚，才不會到了時間還在找路。"
       }
@@ -103,6 +104,7 @@
         "icon": "Footprints",
         "text": "步行（Sun Castle／Helios 瀑布附近）"
       },
+      "image": "/images/day4/solar-warriors-ba-na-hills.jpg",
       "details": {
         "story": "這段特別為你保留「卡表演」的時間窗。園區表演時刻可能依季節／活動調整，建議你到法國村後先看告示牌或詢問工作人員，確認當天表演時間與地點。"
       }
@@ -124,6 +126,7 @@
       "type": "transit",
       "icon": "Train",
       "description": "從法國村／Eclipse Square 一帶搭園區小火車前往 Moon Kingdom Station，再步行進月亮城堡",
+      "image": "/images/day4/lava-train-ba-na-hills.jpg",
       "transport": {
         "icon": "Train",
         "text": "Lava Train（園區小火車）"
@@ -142,7 +145,7 @@
         "icon": "Footprints",
         "text": "步行（園區內）"
       },
-      "image": "https://sunworld.vn/wp-content/uploads/2019/04/fantasy-park.jpg",
+      "image": "/images/day4/moon-kingdom-ba-na-hills.jpg",
       "details": {
         "story": "月亮城堡與周邊的 Moon Kingdom／室內遊樂區有不少設施與互動體驗。建議你一到就先確認「你指定的兩個設施」是否開放、排隊時間大概多久，再決定動線（先排熱門、再排次熱門）。"
       }
@@ -165,7 +168,7 @@
       "type": "attraction",
       "icon": "MapPin",
       "description": "回中層後再走愛情花園＋Debay 酒窖；順便買點小點心補水",
-      "image": "https://images.unsplash.com/photo-1596484552834-6a58f850e0a1?q=80&w=800&auto=format&fit=crop",
+      "image": "/images/day4/le-jardin-damour-ba-na-hills.jpg",
       "details": {
         "story": "愛情花園（Le Jardin d'Amour）與 Debay 酒窖都在中層區域，動線很順。酒窖裡偏涼，怕冷可以帶一件薄外套。"
       },
@@ -211,14 +214,15 @@
     },
     {
       "time": "17:30-19:00",
-      "title": "晚餐：Vincom Plaza（餐廳在商場內）",
+      "title": "晚餐：POSEIDON BUFFET",
       "type": "attraction",
       "icon": "Utensils",
-      "description": "不用再轉點移動：抵達後直接在 Vincom Plaza 內用餐",
+      "description": "Vincom Plaza 3F",
       "transport": {
         "icon": "Footprints",
         "text": "同棟（下車即到）"
       },
+      "image": "/images/day4/POSEIDON-BUFFET.jpg",
       "details": {
         "story": "你原本的晚餐就在 Vincom Plaza 裡，因此把「下山後」的目的地直接改成 Vincom Plaza 最順。吃完再逛街買鞋也不用移動。",
         "mapUrl": "https://maps.google.com/?q=Vincom+Plaza+Da+Nang"
@@ -227,7 +231,7 @@
     },
     {
       "time": "19:00-20:30",
-      "title": "Vincom Plaza 逛街買鞋（同棟直接續）",
+      "title": "Vincom Plaza 逛街買鞋",
       "type": "attraction",
       "icon": "ShoppingBag",
       "description": "用餐後直接逛商場、買鞋與補貨，行程動線最省力",
@@ -235,7 +239,7 @@
         "icon": "Footprints",
         "text": "步行（商場內）"
       },
-      "image": "https://images.unsplash.com/photo-1519567241046-7f5700b745bc?q=80&w=800&auto=format&fit=crop",
+      "image": "/images/day4/Vincom-Plaza-Da-Nang.jpg",
       "details": {
         "story": "Vincom Plaza 是峴港市區大型購物中心，品牌與餐廳集中，逛起來很舒服。若你想把時間留給休息，也可以把逛街縮短 30–45 分鐘，提早回飯店。",
         "mapUrl": "https://maps.google.com/?q=Vincom+Plaza+Da+Nang"

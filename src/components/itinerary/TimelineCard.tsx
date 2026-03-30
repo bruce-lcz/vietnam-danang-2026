@@ -17,8 +17,7 @@ function getIcon(name: string) {
 
 export default function TimelineCard({ item, onClick }: TimelineCardProps) {
     const isTransit = item.type === "transit";
-    const hasDetails = item.details && typeof item.details === 'object' && item.details.story;
-
+    const hasDetails = item.details && typeof item.details === 'object' && Object.keys(item.details).some(k => k !== 'mapUrl');
     const handleMapClick = (e: React.MouseEvent) => {
         e.stopPropagation();
         if (item.google_map) {
@@ -152,11 +151,19 @@ export default function TimelineCard({ item, onClick }: TimelineCardProps) {
                         >
                             {/* Image Header */}
                             {item.image && (
-                                <div className="w-full h-32 overflow-hidden relative bg-gray-100">
+                                <div 
+                                    className="w-full overflow-hidden relative bg-gray-100"
+                                    style={{
+                                        height: item.imageHeight || undefined,
+                                        aspectRatio: item.imageHeight ? undefined : '16/9',
+                                        maxHeight: item.imageHeight ? undefined : '12rem'
+                                    }}
+                                >
                                     <img 
-                                        src={item.image} 
+                                        src={item.image.startsWith('http') ? item.image : `${import.meta.env.BASE_URL}${item.image.startsWith('/') ? item.image.slice(1) : item.image}`} 
                                         alt={item.title} 
-                                        className="w-full h-full object-cover shrink-0" 
+                                        className="w-full h-full shrink-0" 
+                                        style={{ objectFit: item.imageFit || 'cover' }}
                                         loading="lazy"
                                         onError={(e) => {
                                             (e.target as HTMLImageElement).parentElement?.classList.add('hidden');

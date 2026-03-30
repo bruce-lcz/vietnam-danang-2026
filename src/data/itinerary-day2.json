@@ -20,15 +20,15 @@
       "type": "attraction",
       "icon": "Ship",
       "description": "搭乘傳統竹籃船穿梭於水椰林，並觀賞當地極具特色的水上旋轉表演",
-      "image": "https://images.unsplash.com/photo-1559592442-703df730598a?q=80&w=800&auto=format&fit=crop",
+      "image": "/images/day2/cam-thanh-basket-boat.jpg",
       "details": {
         "story": "來到秋盆河的迦南島，乘坐獨特的竹籃船穿梭在茂密的水椰林中。船夫會表演驚險刺激的瘋狂旋轉，並邀請您一同體驗河上捕蟹。這是來會安必玩的水上活動！",
-        "mapUrl": "https://maps.google.com/?q=Hanh+Coconut+Water+Coconut"
+        "mapUrl": "https://maps.app.goo.gl/5tqKTSfv1MeV8MJ18"
       },
-      "google_map": "https://maps.google.com/?q=Hanh+Coconut+Water+Coconut",
+      "google_map": "https://maps.app.goo.gl/5tqKTSfv1MeV8MJ18",
       "transport": {
         "icon": "Car",
-        "text": "Grab 約 15 分鐘"
+        "text": "Grab 約 10-15 分鐘"
       }
     },
     {
@@ -49,7 +49,7 @@
       "google_map": "https://maps.google.com/?q=Sanouva+Danang+Hotel",
       "transport": {
         "icon": "Car",
-        "text": "Grab 約 30 分鐘"
+        "text": "Grab 約 50-60 分鐘"
       }
     },
     {
@@ -58,7 +58,7 @@
       "type": "attraction",
       "icon": "Utensils",
       "description": "享用知名品牌越式法包，體驗豐富層次的口感",
-      "image": "https://images.unsplash.com/photo-1600454021970-351eff4a6554?q=80&w=800&auto=format&fit=crop",
+      "image": "/images/day2/banh-mi-happy-bread.jpg",
       "details": null,
       "google_map": "https://maps.google.com/?q=Bánh+mì+Happy+Bread+Mì+A"
     },
@@ -72,7 +72,7 @@
         "icon": "Footprints",
         "text": "步行 5 分鐘"
       },
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cho_Han_Entrance.JPG/800px-Cho_Han_Entrance.JPG",
+      "image": "/images/day2/han-market-da-nang.jpg",
       "details": {
         "story": "峴港市區最大、最傳統的室內市場，二樓有許多裁縫店可以量身訂做專屬自己的「奧黛」。這裡也是購買乾貨、鞋子、衣服和各式伴手禮的好地方。",
         "mapUrl": "https://maps.google.com/?q=Han+Market+Da+Nang"
@@ -89,7 +89,7 @@
         "icon": "Footprints",
         "text": "步行 10 分鐘"
       },
-      "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?q=80&w=800&auto=format&fit=crop",
+      "image": "/images/day2/bubu-shop.jpg",
       "details": {
         "story": "在知名的越共咖啡喝杯椰奶咖啡稍作休息，並逛逛旁邊的特色選物店採買小東西。Cộng Cà Phê 以其獨特的軍事復古風格聞名。",
         "mapUrl": "https://maps.google.com/?q=Cong+Ca+Phe+Da+Nang"
@@ -106,7 +106,7 @@
         "icon": "Footprints",
         "text": "步行 3 分鐘"
       },
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Da_Nang_Cathedral_20190919.jpg",
+      "image": "/images/day2/da-nang-cathedral-pink-church.jpg",
       "details": {
         "story": "建於 1923 年法國殖民時期，尖塔上的風信雞是其特色，因此又被當地人稱為雞教堂。粉紅色的牆面在藍天照耀下顯得格外迷人。",
         "mapUrl": "https://maps.google.com/?q=Da+Nang+Cathedral"
@@ -123,7 +123,7 @@
         "icon": "Car",
         "text": "Grab 約 10 分鐘"
       },
-      "image": "https://images.unsplash.com/photo-1548907040-4baa42d10919?q=80&w=800&auto=format&fit=crop",
+      "image": "/images/day2/maison-marou-da-nang.jpg",
       "details": {
         "story": "體驗越南最知名的兩大精品巧克力品牌，非常適合作為精緻伴手禮。Maison Marou 被譽為越南巧克力的驕傲，從巧克力豆到成品的每一步都非常講究。",
         "mapUrl": "https://maps.google.com/?q=Maison+Marou+Flagship+Da+Nang"
@@ -136,6 +136,7 @@
       "type": "attraction",
       "icon": "Gift",
       "description": "前往日系精緻伴手禮店，選購受歡迎的特色糕點與禮盒",
+      "image": "/images/day2/star-kitchen.jpg",
       "transport": {
         "icon": "Footprints",
         "text": "步行 5 分鐘"
@@ -169,7 +170,7 @@
         "icon": "Footprints",
         "text": "步行 10 分鐘"
       },
-      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=800&auto=format&fit=crop",
+      "image": "/images/day2/pizza-4ps-indochina-da-nang.jpg",
       "details": {
         "story": "Pizza 4P's 是越南最具代表性的窯烤披薩店，以自製起司聞名。Indochina 分店可俯瞰韓江美景。建議一定要嘗試他們的布拉塔起司，品質非常驚人。",
         "mapUrl": "https://maps.google.com/?q=Pizza+4P's+Indochina+Da+Nang"
@@ -186,7 +187,7 @@
         "icon": "Car",
         "text": "Grab 約 10-15 分鐘"
       },
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Da_Nang_-_S%C3%B4ng_H%C3%A0n_%282024%29_-_img_04.jpg/800px-Da_Nang_-_S%C3%B4ng_H%C3%A0n_%282024%29_-_img_04.jpg",
+      "image": "/images/day2/han-river-night-cruise-da-nang.jpg",
       "details": {
         "story": "乘坐 My Xuan 號遊覽韓江夜色，在船上近距離觀賞龍橋噴火/噴水秀表演。夜晚的韓江兩岸燈火輝煌，伴著涼爽的海風非常愜意。",
         "mapUrl": "https://maps.google.com/?q=Han+River+Cruise+Danang"
