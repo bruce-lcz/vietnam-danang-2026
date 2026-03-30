@@ -9,7 +9,7 @@
       "title": "飯店早餐 @ S'Ngon Restaurant",
       "type": "attraction",
       "icon": "Coffee",
-      "description": "前往 3 樓 S'Ngon 餐廳享用豐盛百匯。必嚐酒店自创的「蔬食會安乾麵 (Sanouva Veggie Cao Lau) 」，以及多樣化的越式與亞洲料理",
+      "description": "前往 3 樓 S'Ngon 餐廳享用豐盛百匯。必嚐酒店自創的「蔬食會安乾麵 (Sanouva Veggie Cao Lau) 」，以及多樣化的越式與亞洲料理",
       "details": {
         "story": "Sanouva 的 S'Ngon 餐廳以豐富的越式與亞洲百匯聞名。特別推薦他們自创的「會安乾麵 (Cao Lau)」，是來此必體驗的在地特色料理。整體的餐點種類多元且水準穩定，是開啟峴港城市探索的完美起點。"
       }
@@ -20,15 +20,15 @@
       "type": "attraction",
       "icon": "Mountain",
       "description": "購票搭乘景觀電梯直達山頂，深入探索壯麗的自然鐘乳石洞與古老佛塔",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Da_Nang_-_%C3%90%E1%BB%99ng_Huy%E1%BB%81n_Kh%C3%B4ng_%282024%29_-_img_03.jpg",
+      "image": "/images/day3/marble-mountains-da-nang.jpg",
       "details": {
         "story": "五行山（Marble Mountains）由五座石灰岩山峰組成，分別代表金、木、水、火、土。山上有許多天然石洞和古老佛塔，其中 Huyền Không 洞內的佛像在岩洞頂部灑下的光線映照下，顯得格外莊嚴而神秘。",
-        "mapUrl": "https://maps.google.com/?q=The+Marble+Mountains"
+        "mapUrl": "https://maps.app.goo.gl/5Urqevkc7Ea3sis9A"
       },
-      "google_map": "https://maps.google.com/?q=The+Marble+Mountains",
+      "google_map": "https://maps.app.goo.gl/5Urqevkc7Ea3sis9A",
       "transport": {
         "icon": "Car",
-        "text": "Grab 約 15-20 分鐘"
+        "text": "Grab 約 20 分鐘"
       }
     },
     {
@@ -49,7 +49,7 @@
       "type": "attraction",
       "icon": "MapPin",
       "description": "靈應寺看 67m 觀音像＋海景觀景台；時間夠可加碼「棋盤頂／雷達站」等點位",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Linh_Ung_Pagoda.jpg/800px-Linh_Ung_Pagoda.jpg",
+      "image": "/images/day3/linh-ung-pagoda-son-tra.jpg",
       "details": {
         "story": "五行山到山茶半島的銜接最直覺就是「海邊一路往北」：五行山 → My Khe 海岸線 → 靈應寺（Linh Ung）。\n\n建議停留時間：\n- 只看靈應寺＋拍照：1–1.5 小時\n- 再加 1–2 個觀景點（棋盤頂／雷達站／山路觀景台）：2.5–4 小時\n\n提醒：半島路段較山路，點位分散；若要多點跑景，包車比「一段一段叫 Grab」更省時，也比較不怕回程叫不到車。",
         "mapUrl": "https://maps.google.com/?q=Linh+Ung+Pagoda"
@@ -66,7 +66,7 @@
         "icon": "Car",
         "text": "Grab / 包車 約 25-35 分鐘（從山茶下山）"
       },
-      "image": "https://axwwgrkdco.cloudimg.io/v7/mtp-cf-images.s3.eu-west-1.amazonaws.com/images/max/83a48e71-482f-48e0-a579-2708b5e67980.jpg",
+      "image": "/images/day3/banh-xeo-ba-duong.jpeg",
       "details": {
         "story": "這間是峴港最強的越式煎餅名店！將滿滿的豆芽、蝦肉包進煎得金黃酥脆的餅皮中，搭配生菜與靈魂沾醬（特製肝醬），每一口都能感受到道地的鮮甜滋味。雖然在巷子內，但人潮總是絡繹不絕。",
         "mapUrl": "https://maps.google.com/?q=Bánh+Xèo+Bà+Dưỡng"
@@ -79,7 +79,7 @@
       "type": "attraction",
       "icon": "TreeDeciduous",
       "description": "漫步於亞太經合會紀念公園，並與獨特的圓弧造型屋頂地標合影",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Da_Nang_APEC_Park.jpg/800px-Da_Nang_APEC_Park.jpg",
+      "image": "/images/day3/apec-park-da-nang.jpg",
       "details": {
         "story": "為亞太經合會所建立的公園，最具代表性的是獨特巨大圓弧造型屋頂，象徵著放飛夢想，是當地熱門拍照打卡點。到了夜晚，屋頂會有美麗的彩色燈光照射。",
         "mapUrl": "https://maps.google.com/?q=APEC+Park+Da+Nang"
@@ -96,7 +96,7 @@
       "type": "attraction",
       "icon": "ShoppingCart",
       "description": "前往當地最大型超市，採購特色零食與越南特產伴手禮",
-      "image": "https://ebusiness.go-vietnam.com/storage/app/media/GO_DaNang.jpg",
+      "image": "/images/day3/go-da-nang-supermarket.jpg",
       "details": {
         "story": "峴港市區知名的大型超市，非常適合採購各種越南特色伴手禮與零食。這裡的腰果、咖啡與乾酪製品種類非常豐富且價格親民。",
         "mapUrl": "https://maps.google.com/?q=GO!+Da+Nang"
@@ -113,7 +113,7 @@
       "type": "attraction",
       "icon": "Waves",
       "description": "返回酒店享受悠閒午後，使用泳池及各項休閒設施放鬆身心",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Hoi_An_lanterns_at_night.jpg",
+      "image": "/images/day3/swimming-pool.png",
       "transport": {
         "icon": "Car",
         "text": "Grab 約 5 分鐘"
@@ -139,7 +139,7 @@
       "type": "attraction",
       "icon": "Utensils",
       "description": "享用高人氣的道地越南家常料理，品嚐經典鳳梨炒飯與特色烤肉",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nem_n%C6%B0%E1%BB%9Bng_Nha_Trang.jpg/800px-Nem_n%C6%B0%E1%BB%9Bng_Nha_Trang.jpg",
+      "image": "/images/day3/an-thoi-restaurant-da-nang.jpg",
       "details": {
         "story": "這家餐廳人氣很高，以道地的越南家常菜聞名，建議提早去現場排隊入座。別忘了嘗試他們的鳳梨飯與各式烤肉。",
         "mapUrl": "https://maps.google.com/?q=Ăn+Thôi"
@@ -156,7 +156,7 @@
       "type": "attraction",
       "icon": "Flower",
       "description": "體驗精緻的越式草本水療按摩，享受舒緩身心的專業芳療服務",
-      "image": "https://images.unsplash.com/photo-1544161515-4af6b1d4640d?q=80&w=800&auto=format&fit=crop",
+      "image": "/images/day3/luxury-herbal-spa-da-nang.jpg",
       "details": {
         "story": "享受高級越式草本水療按摩，舒緩走了一天的疲勞。這家 Spa 的環境非常優雅安靜，專業的按摩技巧能讓你徹底放鬆。",
         "mapUrl": "https://maps.google.com/?q=Luxury+Herbal+Spa+Danang"

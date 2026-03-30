@@ -86,7 +86,7 @@ function CustomAmountCard({ rate }: CustomAmountCardProps) {
 
     return (
         <div
-            className="rounded-xl p-4 flex flex-col gap-1 col-span-2 transition-all duration-200 cursor-text"
+            className="rounded-xl p-4 flex flex-col gap-1 transition-all duration-200 cursor-text"
             style={{
                 background: 'var(--color-surface)',
                 border: '1.5px dashed var(--color-border-strong)',
@@ -344,7 +344,7 @@ export default function ToolsPage() {
                         {exchangeConfig.amounts.map((vnd) => (
                             <AmountCard key={vnd} vnd={vnd} rate={rate} />
                         ))}
-                        {/* 500,000 is the 5th (odd), so it takes left cell; custom card spans full width */}
+                        {/* Custom card fills the empty right slot next to 500,000 */}
                         <CustomAmountCard rate={rate} />
                     </div>
                 </section>
