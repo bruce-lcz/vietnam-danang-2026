@@ -7,7 +7,7 @@ import { Map, Info, Lightbulb, Ticket, Utensils, Plane, Bookmark } from "lucide-
 
 const DETAIL_CONFIG: Record<string, { label: string, icon: any, color: string }> = {
     story: { label: "Story & Guide", icon: Info, color: "var(--color-accent)" },
-    tips: { label: "Travel Tips", icon: Lightbulb, color: "#eab308" },
+    tips: { label: "旅遊提醒", icon: Lightbulb, color: "#eab308" },
     tickets: { label: "Ticket Info", icon: Ticket, color: "#10b981" },
     dining: { label: "Must Try / Menu", icon: Utensils, color: "#f97316" },
     flight: { label: "Flight Details", icon: Plane, color: "#3b82f6" },

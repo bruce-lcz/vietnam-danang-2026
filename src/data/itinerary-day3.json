@@ -1,8 +1,8 @@
 {
   "day": 3,
   "date": "2026-04-19",
-  "title": "五行山 ➔ 山茶半島 ➔ 峴港市區",
-  "summary": "五行山",
+  "title": "五行山 ➔ 靈應寺 ➔ 山茶半島咖啡廳 ➔ 峴港市區",
+  "summary": "五行山、靈應寺、山茶半島",
   "timeline": [
     {
       "time": "08:00",
@@ -11,7 +11,7 @@
       "icon": "Coffee",
       "description": "前往 3 樓 S'Ngon 餐廳享用豐盛百匯。必嚐酒店自創的「蔬食會安乾麵 (Sanouva Veggie Cao Lau) 」，以及多樣化的越式與亞洲料理",
       "details": {
-        "story": "Sanouva 的 S'Ngon 餐廳以豐富的越式與亞洲百匯聞名。特別推薦他們自创的「會安乾麵 (Cao Lau)」，是來此必體驗的在地特色料理。整體的餐點種類多元且水準穩定，是開啟峴港城市探索的完美起點。"
+        "story": "Sanouva 的 S'Ngon 餐廳以豐富的越式與亞洲百匯聞名。特別推薦他們自創的「會安乾麵 (Cao Lau)」，是來此必體驗的在地特色料理。整體的餐點種類多元且水準穩定，是開啟峴港城市探索的完美起點。"
       }
     },
     {
@@ -33,38 +33,54 @@
     },
     {
       "time": "11:00",
-      "title": "交通：五行山 ➜ 山茶半島（沿海路）",
+      "title": "交通：五行山 ➜ 山茶半島靈應寺",
       "type": "transit",
       "icon": "Car",
-      "description": "從五行山一路沿海往北走，銜接山茶半島。若要繞半島多點跑景，建議包車（Grab 在半島深處較不好叫）",
+      "description": "從五行山沿海往北直上山茶半島，先前往靈應寺參拜與看海景",
       "details": null,
       "transport": {
         "icon": "Car",
-        "text": "Grab 約 35-45 分鐘／包車更順"
+        "text": "Grab 約 35-45 分鐘"
       }
     },
     {
-      "time": "11:45-14:00",
-      "title": "山茶半島（靈應寺＋觀景點）",
+      "time": "11:45-13:00",
+      "title": "山茶半島靈應寺",
       "type": "attraction",
       "icon": "MapPin",
-      "description": "靈應寺看 67m 觀音像＋海景觀景台；時間夠可加碼「棋盤頂／雷達站」等點位",
+      "description": "先到靈應寺看 67m 觀音像、寺廟廣場與海景觀景台，走一圈後再轉往咖啡廳休息",
       "image": "/images/day3/linh-ung-pagoda-son-tra.jpg",
       "details": {
-        "story": "五行山到山茶半島的銜接最直覺就是「海邊一路往北」：五行山 → My Khe 海岸線 → 靈應寺（Linh Ung）。\n\n建議停留時間：\n- 只看靈應寺＋拍照：1–1.5 小時\n- 再加 1–2 個觀景點（棋盤頂／雷達站／山路觀景台）：2.5–4 小時\n\n提醒：半島路段較山路，點位分散；若要多點跑景，包車比「一段一段叫 Grab」更省時，也比較不怕回程叫不到車。",
-        "mapUrl": "https://maps.google.com/?q=Linh+Ung+Pagoda"
+        "story": "五行山後直接接山茶半島最順，先到靈應寺（Linh Ung）看代表性的觀音像與海景。這一站以輕鬆散步、拍照與看海為主",
+        "mapUrl": "https://maps.app.goo.gl/ePU3pgrozCuG31Fm6"
       },
-      "google_map": "https://maps.google.com/?q=Linh+Ung+Pagoda"
+      "google_map": "https://maps.app.goo.gl/ePU3pgrozCuG31Fm6"
     },
     {
-      "time": "14:15",
+      "time": "13:10-14:10",
+      "title": "山茶半島咖啡廳小歇",
+      "type": "attraction",
+      "icon": "Coffee",
+      "description": "從靈應寺離開後到山茶半島咖啡廳坐坐，喝飲料看景，休息一下再接後面的市區行程",
+      "details": {
+        "story": "山路景點後的中場休息",
+        "mapUrl": "https://maps.app.goo.gl/PTU1BWZtgF7HvMCN7"
+      },
+      "google_map": "https://maps.app.goo.gl/PTU1BWZtgF7HvMCN7",
+      "transport": {
+        "icon": "Car",
+        "text": "車程約 10 分鐘"
+      }
+    },
+    {
+      "time": "14:45",
       "title": "午餐: Bánh Xèo Bà Dưỡng",
       "type": "attraction",
       "icon": "Utensils",
       "description": "品嚐當地大排長龍的人氣越式煎餅，享受酥脆餅皮與靈魂沾醬的絕妙搭配",
       "transport": {
         "icon": "Car",
-        "text": "Grab / 包車 約 25-35 分鐘（從山茶下山）"
+        "text": "Grab 約 30-40 分鐘（從咖啡廳回市區）"
       },
       "image": "/images/day3/banh-xeo-ba-duong.jpeg",
       "details": {
@@ -74,7 +90,7 @@
       "google_map": "https://maps.google.com/?q=Bánh+Xèo+Bà+Dưỡng"
     },
     {
-      "time": "15:15",
+      "time": "15:45",
       "title": "APEC Park 雕塑公園",
       "type": "attraction",
       "icon": "TreeDeciduous",
@@ -91,7 +107,7 @@
       }
     },
     {
-      "time": "16:00",
+      "time": "16:30",
       "title": "GO! Da Nang 採買",
       "type": "attraction",
       "icon": "ShoppingCart",
@@ -108,7 +124,7 @@
       }
     },
     {
-      "time": "17:15",
+      "time": "17:45",
       "title": "飯店休息 & 游泳池",
       "type": "attraction",
       "icon": "Waves",
@@ -122,7 +138,7 @@
       "google_map": "https://maps.google.com/?q=Sanouva+Danang+Hotel"
     },
     {
-      "time": "18:30",
+      "time": "19:00",
       "title": "漢市場: 拿奧黛",
       "type": "attraction",
       "icon": "ShoppingBag",
@@ -134,7 +150,7 @@
       "details": null
     },
     {
-      "time": "19:15",
+      "time": "19:45",
       "title": "晚餐: Ăn Thôi",
       "type": "attraction",
       "icon": "Utensils",
@@ -151,7 +167,7 @@
       }
     },
     {
-      "time": "20:30",
+      "time": "21:00",
       "title": "Luxury Herbal Spa",
       "type": "attraction",
       "icon": "Flower",
@@ -168,7 +184,7 @@
       }
     },
     {
-      "time": "22:30",
+      "time": "23:00",
       "title": "回飯店休息",
       "type": "transit",
       "icon": "Hotel",
