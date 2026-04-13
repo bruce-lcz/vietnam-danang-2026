@@ -44,7 +44,7 @@
       }
     },
     {
-      "time": "11:45-13:00",
+      "time": "11:45-12:30",
       "title": "山茶半島靈應寺",
       "type": "attraction",
       "icon": "MapPin",
@@ -57,7 +57,7 @@
       "google_map": "https://maps.app.goo.gl/ePU3pgrozCuG31Fm6"
     },
     {
-      "time": "13:10-14:10",
+      "time": "12:50-13:30",
       "title": "山茶半島咖啡廳小歇",
       "type": "attraction",
       "icon": "Coffee",
@@ -73,7 +73,7 @@
       }
     },
     {
-      "time": "14:45",
+      "time": "14:00",
       "title": "午餐: Bánh Xèo Bà Dưỡng",
       "type": "attraction",
       "icon": "Utensils",
@@ -90,7 +90,7 @@
       "google_map": "https://maps.google.com/?q=Bánh+Xèo+Bà+Dưỡng"
     },
     {
-      "time": "15:45",
+      "time": "14:30",
       "title": "APEC Park 雕塑公園",
       "type": "attraction",
       "icon": "TreeDeciduous",
@@ -107,7 +107,7 @@
       }
     },
     {
-      "time": "16:30",
+      "time": "15:00",
       "title": "GO! Da Nang 採買",
       "type": "attraction",
       "icon": "ShoppingCart",
@@ -124,7 +124,7 @@
       }
     },
     {
-      "time": "17:45",
+      "time": "16:30",
       "title": "飯店休息 & 游泳池",
       "type": "attraction",
       "icon": "Waves",
@@ -138,7 +138,7 @@
       "google_map": "https://maps.google.com/?q=Sanouva+Danang+Hotel"
     },
     {
-      "time": "19:00",
+      "time": "18:00",
       "title": "漢市場: 拿奧黛",
       "type": "attraction",
       "icon": "ShoppingBag",
@@ -150,7 +150,7 @@
       "details": null
     },
     {
-      "time": "19:45",
+      "time": "18:20",
       "title": "晚餐: Ăn Thôi",
       "type": "attraction",
       "icon": "Utensils",
@@ -167,7 +167,7 @@
       }
     },
     {
-      "time": "21:00",
+      "time": "20:00",
       "title": "Luxury Herbal Spa",
       "type": "attraction",
       "icon": "Flower",
@@ -184,7 +184,7 @@
       }
     },
     {
-      "time": "23:00",
+      "time": "22:00",
       "title": "回飯店休息",
       "type": "transit",
       "icon": "Hotel",

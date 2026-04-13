@@ -16,14 +16,14 @@
       "google_map": "https://maps.google.com/?q=SALA+DANANG+BEACH+HOTEL"
     },
     {
-      "time": "08:30",
+      "time": "08:45~12:00",
       "title": "美山聖地 (My Son Sanctuary)",
       "type": "attraction",
       "icon": "Landmark",
-      "description": "搭乘專車前往世界文化遺產，探索被譽為「越南吳哥窟」的占婆王國遺跡",
+      "description": "搭乘KKDay包車前往世界文化遺產，探索被譽為「越南吳哥窟」的占婆王國遺跡",
       "transport": {
         "icon": "Car",
-        "text": "包車 約 1.5 小時"
+        "text": "7:45從飯店出發，包車 約 1 小時"
       },
       "image": "/images/day5/my-son-sanctuary.jpg",
       "details": {
@@ -33,14 +33,14 @@
       "google_map": "https://maps.google.com/?q=My+Son+Sanctuary"
     },
     {
-      "time": "13:45",
+      "time": "13:30",
       "title": "Hải sản Mộc quán Đà Nẵng",
       "type": "attraction",
       "icon": "Utensils",
       "description": "於備受歡迎的海鮮餐廳享用豐盛午餐",
       "transport": {
         "icon": "Car",
-        "text": "包車 約 1.5 小時"
+        "text": "包車 約 1 小時"
       },
       "image": "/images/day5/hai-san-moc-quan-seafood.jpg",
       "details": {
